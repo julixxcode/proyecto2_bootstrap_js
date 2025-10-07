@@ -1,0 +1,53 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #343a40;
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 0.75rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+  max-width: 800px;  /* ancho máximo */
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.card.completed {
+  border: 2px solid #198754;
+  background-color: #e9f7ef;
+}
+
+/* Altura uniforme */
+.todo-card, .form-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-text {
+  flex-grow: 1;
+}
+
+.card .btn {
+  font-size: 0.85rem;
+  margin: 0.25rem;
+}
+
+/* Responsivo */
+@media (max-width: 767px) {
+  .card {
+    max-width: 100%;
+  }
+}
